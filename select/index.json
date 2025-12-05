@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Free Them",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-05T11:05:20.197079Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Free Them (feat. Teddy Swims)",
+      "artist": "ONE OK ROCK feat. Teddy Swims",
+      "has_synced": true,
+      "path": "select/01_Free_Them_(feat._Teddy_Swims)_ONE_OK_ROCK_feat._Teddy_Swims.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Free Them (feat. Teddy Swims)",
+      "artist": "ONE OK ROCK feat. テディ・スウィムズ",
+      "has_synced": true,
+      "path": "select/02_Free_Them_(feat._Teddy_Swims)_ONE_OK_ROCK_feat._テディ・スウィムズ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Free Them (feat. Teddy Swims)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/03_Free_Them_(feat._Teddy_Swims)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Free Them (feat. Teddy Swims)",
+      "artist": "ONE OK ROCK, Teddy Swims",
+      "has_synced": true,
+      "path": "select/04_Free_Them_(feat._Teddy_Swims)_ONE_OK_ROCK,_Teddy_Swims.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Free Them",
+      "artist": "ONE OK ROCK feat.Teddy Swims",
+      "has_synced": true,
+      "path": "select/05_Free_Them_ONE_OK_ROCK_feat.Teddy_Swims.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Free Them",
+      "artist": "ONE OK ROCK feat. Teddy Swims",
+      "has_synced": true,
+      "path": "select/06_Free_Them_ONE_OK_ROCK_feat._Teddy_Swims.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Free Them",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/07_Free_Them_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Free Them",
+      "artist": "ONE OK ROCK feat.Teddy Swims",
+      "has_synced": true,
+      "path": "select/08_Free_Them_ONE_OK_ROCK_feat.Teddy_Swims.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Free Them (feat. Teddy Swims)",
+      "artist": "ONE OK ROCK, Teddy Swims",
+      "has_synced": true,
+      "path": "select/09_Free_Them_(feat._Teddy_Swims)_ONE_OK_ROCK,_Teddy_Swims.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Free Them",
+      "artist": "Starringo",
+      "has_synced": true,
+      "path": "select/10_Free_Them_Starringo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Free Them All",
+      "artist": "Rockin' Squat",
+      "has_synced": true,
+      "path": "select/11_Free_Them_All_Rockin'_Squat.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Free Them (International Version)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/12_Free_Them_(International_Version)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Free Them (International Version)",
+      "artist": "ONE OK ROCK/Teddy Swims",
+      "has_synced": true,
+      "path": "select/13_Free_Them_(International_Version)_ONE_OK_ROCK_Teddy_Swims.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "11 - Free them all",
+      "artist": "Rockin'Squat",
+      "has_synced": true,
+      "path": "select/14_11_-_Free_them_all_Rockin'Squat.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Free Them (feat. Teddy Swims)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/15_Free_Them_(feat._Teddy_Swims)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Santa's Comin to Free Them",
+      "artist": "Amason",
+      "has_synced": true,
+      "path": "select/16_Santa's_Comin_to_Free_Them_Amason.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Free Them feat. Teddy Swims",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Free_Them_feat._Teddy_Swims_ONE_OK_ROCK.txt"
+    }
+  ]
+}
